@@ -34,4 +34,4 @@ pre-commit install
 
 ## Credits
 
-This repo is inspired by [`dnephin/pre-commit-golang`](https://github.com/Bahjat/pre-commit-golang)
+This repo is inspired by [`Bahjat/pre-commit-golang`](https://github.com/Bahjat/pre-commit-golang)
